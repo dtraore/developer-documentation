@@ -325,6 +325,9 @@ theme:
   feature:
       tabs: false
   search_index_only: false
+  
+  static_templates:
+    - 404.html
 
 # theme_dir: material
 
