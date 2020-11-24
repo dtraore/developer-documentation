@@ -1,4 +1,4 @@
-# Customer profile data listeners
+# Customer profile data listeners [[% include 'snippets/commerce_badge.md' %]]
 
 ## ListenerInterface
 

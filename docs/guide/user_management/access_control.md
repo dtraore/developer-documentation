@@ -1,4 +1,4 @@
-# Access control
+# Access control [[% include 'snippets/commerce_badge.md' %]]
 
 [[= product_name_com =]] uses Policies to control access to some specific pages and functions.
 

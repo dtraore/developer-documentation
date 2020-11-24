@@ -1,4 +1,4 @@
-# Newsletter configuration
+# Newsletter configuration [[% include 'snippets/commerce_badge.md' %]]
 
 General newsletter configuration is located in `newsletter.yml`:
 

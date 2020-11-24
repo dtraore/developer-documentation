@@ -1,4 +1,4 @@
-# Customer profile data services
+# Customer profile data services [[% include 'snippets/commerce_badge.md' %]]
 
 ## CustomerProfileDataServiceInterface
 

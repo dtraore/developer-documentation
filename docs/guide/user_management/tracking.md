@@ -1,4 +1,4 @@
-# Tracking
+# Tracking [[% include 'snippets/commerce_badge.md' %]]
 
 [[= product_name_com =]] comes with a simple extensible system for tracking tools. Any tracking tool can be plugged in.
 

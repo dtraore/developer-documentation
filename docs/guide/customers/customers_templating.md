@@ -1,4 +1,4 @@
-# Customers templating
+# Customers templating [[% include 'snippets/commerce_badge.md' %]]
 
 [[= product_name_com =]] provides a global Twig variable `ses` which is available in all templates.
 The variable provides the `profile` method which contains information about the current customer.

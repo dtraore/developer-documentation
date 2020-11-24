@@ -1,4 +1,4 @@
-# Token
+# Token [[% include 'snippets/commerce_badge.md' %]]
 
 The eCommerce uses the token system in the registration process to create a  double opt-in possibility.
 

@@ -1,4 +1,4 @@
-# Forgot / change password
+# Forgot / change password [[% include 'snippets/commerce_badge.md' %]]
 
 ## Forgot password
 

@@ -1,4 +1,4 @@
-# Customer profile data components
+# Customer profile data components [[% include 'snippets/commerce_badge.md' %]]
 
 ## Components
 

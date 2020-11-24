@@ -1,4 +1,4 @@
-# Login and registration cookbook
+# Login and registration cookbook [[% include 'snippets/commerce_badge.md' %]]
 
 [[= product_name_com =]] is able to check credentials not only specified by username and password,
 but also using customer number (which could be taken from ERP system). 

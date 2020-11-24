@@ -1,4 +1,4 @@
-# Additional newsletter data
+# Additional newsletter data [[% include 'snippets/commerce_badge.md' %]]
 
 To send additional data to the newsletter provider, you need to implement an event listener
 that listens to `subscribe_newsletter_event` or `update_newsletter_event`.

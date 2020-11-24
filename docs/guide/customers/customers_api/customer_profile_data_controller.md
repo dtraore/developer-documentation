@@ -1,4 +1,4 @@
-# Customer profile data controller
+# Customer profile data controller [[% include 'snippets/commerce_badge.md' %]]
 
 `Silversolutions\Bundle\EshopBundle\Controller\CustomerProfileDataController`
 

@@ -1,4 +1,4 @@
-# TokenController
+# TokenController [[% include 'snippets/commerce_badge.md' %]]
 
 `TokenController` is available at the `/token/[token]` route,
 for example: `/token/124f564f6d4df4fd3fd4df34fd34fd`.

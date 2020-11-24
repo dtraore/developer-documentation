@@ -1,4 +1,4 @@
-# Customer profile data model
+# Customer profile data model [[% include 'snippets/commerce_badge.md' %]]
 
 ## CustomerProfileData
 

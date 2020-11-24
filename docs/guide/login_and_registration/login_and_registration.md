@@ -1,6 +1,6 @@
-# Login and registration
+# Login and registration [[% include 'snippets/commerce_badge.md' %]]
 
-[[= product_name_com =]] uses [[= product_name_oss =]]'s user management functionality. Users are located in the "Users" Section.
+[[= product_name_com =]] uses [[= product_name =]]'s user management functionality. Users are located in the "Users" Section.
 
 [[= product_name_com =]] extends the user management with the following attributes:
 
@@ -30,8 +30,8 @@ When a user logs in:
 - The shop checks if the user has a contact number  
     - The contact data from the ERP is fetched and stored in Customer profile data as well.
 
-When the data is stored in the ERP, the shop takes care of the versions created by [[= product_name_oss =]].
-[[= product_name_oss =]] limits the number of versions created per Content item.
+When the data is stored in the ERP, the shop takes care of the versions created by [[= product_name =]].
+[[= product_name =]] limits the number of versions created per Content item.
 The shop uses a setting to limit the number of versions (`silver_tools.default.versions_count: 10`) and removes the archived versions.
 If the number of versions to be removed exceeds 20, only 20 versions are removed to ensure the login process does not take too much time (and lead to a timeout). 
 

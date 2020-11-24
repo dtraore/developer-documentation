@@ -1,4 +1,4 @@
-# Delegate function
+# Delegate function [[% include 'snippets/commerce_badge.md' %]]
 
 You can delegate you operations in the shop to another user.
 This user can then take over as if they had a different customer number.
@@ -18,7 +18,7 @@ The user stays in the delegate role until they click **Undelegate**.
 
 ## Configuration
 
-The delegate function is disabled by default. To enable it, add the following configuration in your [[= product_name_oss =]] project folder, the `config\packages\ezplatform.yaml` file, under the `parameters` key:
+The delegate function is disabled by default. To enable it, add the following configuration in your [[= product_name =]] project folder, the `config\packages\ezplatform.yaml` file, under the `parameters` key:
 
 ``` yaml
 silver_eshop.default.enable_delegate: true    

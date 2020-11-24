@@ -1,4 +1,4 @@
-# Customer fields
+# Customer fields [[% include 'snippets/commerce_badge.md' %]]
 
 ## User Content Type
 

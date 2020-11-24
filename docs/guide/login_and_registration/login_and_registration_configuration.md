@@ -1,4 +1,4 @@
-# Login and registration configuration
+# Login and registration configuration [[% include 'snippets/commerce_badge.md' %]]
 
 When the `enable_customer_number_login` parameter is enabled, the shop can log in users with the customer number:
 

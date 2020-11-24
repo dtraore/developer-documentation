@@ -1,4 +1,4 @@
-# Customers FAQ
+# Customers FAQ [[% include 'snippets/commerce_badge.md' %]]
 
 ## Building user menu
 

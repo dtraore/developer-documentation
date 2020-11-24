@@ -1,4 +1,4 @@
-# Customer profile data events
+# Customer profile data events [[% include 'snippets/commerce_badge.md' %]]
 
 ## CustomerProfileDataEventInterface
 
